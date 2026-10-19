@@ -417,3 +417,14 @@ This client is open source. The underlying Apify actor is a paid service ($0.01/
 ## Keywords
 
 `woocommerce-analyzer` `woocommerce-store-analyzer` `wordpress-analyzer` `wp-analyzer` `wp-plugin-detector` `wordpress-plugin-detection` `ecommerce-intelligence` `store-intelligence` `builtwith-alternative` `wappalyzer-alternative` `similarweb-alternative` `commerce-inspector-alternative` `competitor-intelligence` `wp-agency-prospecting` `wp-lead-generation` `dropshipper-detection` `dropshipper-risk-score` `brand-network-mapping` `tracking-id-extraction` `wc-store-api` `wp-rest-api` `wordpress-rest` `web-scraping` `apify` `apify-actor` `python-sdk` `tech-stack-detection`
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run WooCommerce Analyzer — No Login, Emails, Phones & Plugins on Apify](https://apify.com/apivault_labs/woocommerce-store-analyzer).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/woocommerce-store-analyzer/pricing).
+- [n8n community package: n8n-nodes-apivault-woocommerce-analyzer](https://www.npmjs.com/package/n8n-nodes-apivault-woocommerce-analyzer).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-woocommerce-analyzer).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
